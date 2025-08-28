@@ -1,5 +1,5 @@
 # BMI-Calculator-with-python
-This code takes weight and meters and calculates BMI
+#This code takes weight and meters and calculates BMI
 def calculate_bmi():
     try:
         weight = float(input("Enter your weight in kg: "))
